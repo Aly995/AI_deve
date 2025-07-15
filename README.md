@@ -1,2 +1,2 @@
 # AI_deve
-This repository contains the scripts for small AI projects
+This repository contains scripts for small AI projects
